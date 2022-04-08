@@ -12,6 +12,9 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  list-style-type: none;
+  padding: 0;
+  text-transform: uppercase;
   div {
     color: white;
     background: #3498DC;
